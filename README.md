@@ -8,7 +8,8 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-
+ https://danstarkey.github.io/run-buddy/
+ 
 
 ## Contribution
 Made with ❤️ by Daniel Starkey
